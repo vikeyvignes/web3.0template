@@ -47,8 +47,6 @@ body h2,h2,h3,h4,h5,h6{
 @media (max-width:768px){
     .top-banner h1{
     margin:10px 0px 40px !important;
-     width: 450px;
-     height: 247px;
      flex-shrink: 0;
      font-size: 45px !important;
      line-height: 50px !important;
@@ -65,9 +63,6 @@ body h2,h2,h3,h4,h5,h6{
  @media (max-width:576px){
     .top-banner h1{
         margin:10px 0px 40px !important;
-         width: 420px;
-         height: 330px;
-         flex-shrink: 0;
          font-size: 45px !important;
          line-height: 50px !important;
         } 
@@ -430,8 +425,6 @@ color:#070D14;
     font-size: 54px;
     font-weight: 700;
     line-height: 60px;
-    width: 786px;
-    height: 114px;
     margin: 30px 0px; 
 }
 .web3-banner span{
@@ -572,8 +565,6 @@ color:#070D14;
         font-size: 54px;
         font-weight: 700;
         line-height: 60px;
-        width: 786px;
-        height: 114px;
         margin-top: -30px;
         
     }
@@ -679,8 +670,6 @@ color:#070D14;
         font-size: 50px;
         font-weight: 600;
         line-height: 50px;
-        width: 680px;
-        height: 110px;
     
         
     }
@@ -727,8 +716,6 @@ color:#070D14;
     .web3-banner h2{
         font-size:  30px !important;
         line-height: 20px !important;
-        width: 330px !important;
-        height: 100px !important;
     }
     .web3-banner span{
         color: #7FED28;
@@ -1179,7 +1166,7 @@ color:#070D14;
         background: linear-gradient(180deg, #83F030 0%, #26CC3B 100%);
         border-radius: 15px;
         position: absolute;
-        width: 280px !important;
+        width: 502px !important;
         height: 400px !important;
         flex-shrink: 0;
         left:-18px;
