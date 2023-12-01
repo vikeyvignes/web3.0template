@@ -187,14 +187,14 @@ body h2,h2,h3,h4,h5,h6{
 }
 .third-banner .web3-content h2{
     color: #FFF;
-    font-size: 65px;
-    font-weight: 700;
+    font-size: 40px;
+    font-weight: 600;
     line-height: 70px;
     margin-top: 40px ;
 }
 .web3-content h2 span{
     color: #7FED28;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 60px;
 }
