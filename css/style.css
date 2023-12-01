@@ -1147,10 +1147,10 @@ color:#070D14;
         background: linear-gradient(180deg, #83F030 0%, #26CC3B 100%);
         border-radius: 15px;
         position: absolute;
-        width: 683px !important;
-        height: 255px !important;
+        width: 110%!important;
+        height: 150% !important;
         flex-shrink: 0;
-        left:-18px;
+        left:-32px !important;
         z-index:-1;
         top:-100px !important;
     }
