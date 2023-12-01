@@ -151,7 +151,7 @@ body h2,h2,h3,h4,h5,h6{
 }
 @media(max-width:768px){
     .second-banner h4 span{
-        font-size:30px !important;
+        font-size:40px !important;
         line-height: 35px !important;
     }
 }
@@ -177,7 +177,7 @@ body h2,h2,h3,h4,h5,h6{
 }
 @media(max-width:576px){
     .second-banner .btn{
-        font-size:  15px !important;
+        font-size:  10px !important;
         line-height: 20px !important;
     }
 }
