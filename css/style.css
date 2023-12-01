@@ -1166,9 +1166,8 @@ color:#070D14;
         background: linear-gradient(180deg, #83F030 0%, #26CC3B 100%);
         border-radius: 15px;
         position: absolute;
-        width: 100% !important;
-        height:400px !important;
-        flex-shrink: 0;
+/*         width: 100% !important;
+        height:400px !important; */
 /*         left:-18px; */
         z-index:-1;
         top:-55px;
