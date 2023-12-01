@@ -1167,11 +1167,11 @@ color:#070D14;
         border-radius: 15px;
         position: absolute;
         width: 100% !important;
-        height: 100% !important;
+        height:400px !important;
         flex-shrink: 0;
         left:-18px;
         z-index:-1;
-        top:10px !important;
+        top:-55px;
     }
 }
 
